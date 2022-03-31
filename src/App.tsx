@@ -13,8 +13,8 @@ export function App() {
   return (
     <>
       <h1>
-        Brazil
-        <span>Timer</span>
+        Timer
+        <span>Now</span>
       </h1>
 
       <Clock {...time} />
