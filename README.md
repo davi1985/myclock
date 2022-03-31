@@ -10,6 +10,8 @@
 
 <br>
 
+<img src="./src/assets/screenshot.png"/>
+
 ## :dart: About
 
 The clock shows the hours based on user locale time.
